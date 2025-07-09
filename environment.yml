@@ -8,4 +8,4 @@ dependencies:
   - compucell3d=4.6.0
   - matplotlib
   - pyvista
-  - libgl1-mesa-glx
+  - mesa-libgl
