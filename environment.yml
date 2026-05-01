@@ -1,6 +1,5 @@
 name: cc3d-binder
 channels:
-  - main
   - conda-forge
   - compucell3d
   - defaults
@@ -8,3 +7,5 @@ dependencies:
   - compucell3d=4.6.0
   - matplotlib
   - pyvista
+  - libtiff
+  - tiff
