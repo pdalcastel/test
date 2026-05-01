@@ -5,6 +5,5 @@ channels:
   - compucell3d
   - defaults
 dependencies:
-  - compucell3d=4.6.0
+  - compucell3d=4.8.0
   - matplotlib
-  - pyvista
